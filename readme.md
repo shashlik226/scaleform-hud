@@ -26,13 +26,13 @@ If you get an error when launching, make sure MIGI and HLAE are updated to the l
 
 ## Screenshots
 
-![POV demo, default settings](https://media.discordapp.net/attachments/974395055064379402/1044818925571022848/video.00_00_02_01.Still003.png?width=1201&height=676 "POV demo, default settings")
+![POV demo, default settings](https://github.com/user-attachments/assets/1c52795c-d5c2-4224-bad5-c7c56e552e5a "POV demo, default settings")
 
-![GOTV demo, default settings]( https://media.discordapp.net/attachments/974395055064379402/1044812324755746916/video.00_00_01_06.Still002.png?width=1201&height=676  "GOTV demo, default settings")
+![GOTV demo, default settings](https://github.com/user-attachments/assets/2cc08d60-9cf1-4b96-887b-59bcf7bd12bd "GOTV demo, default settings")
 
-![defuse panel](https://media.discordapp.net/attachments/974395055064379402/1044809047376920607/video.00_00_00_28.Still003.png?width=1201&height=676 "defuse panel")
+![defuse panel](https://github.com/user-attachments/assets/878f273d-c007-4be0-a53b-16d4cbdde46e "defuse panel")
 
-![2013 MVP panel](https://media.discordapp.net/attachments/974395055064379402/1044809046995251230/video.00_00_02_04.Still004.png?width=1201&height=676 "2013 MVP panel")
+![2013 MVP panel](https://github.com/user-attachments/assets/17c8d063-9cca-4520-a437-2d242560047b "2013 MVP panel")
 
 ## Credits
 
